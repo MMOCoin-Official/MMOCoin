@@ -1,0 +1,9 @@
+Building MMOCoin
+
+See doc/readme-qt.rst for instructions on building MMOCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MMOCoin.
+
+See doc/build-*.txt for instructions on building MMOCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MMOCoin.

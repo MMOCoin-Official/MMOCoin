@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MMOCoin
+Comment=MMOCoin P2P Cryptocurrency
+Comment[fr]=MMOCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MMOCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/MMOCoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/MMOCoin128.png
+MimeType=x-scheme-handler/MMOCoin;
+Categories=Office;
